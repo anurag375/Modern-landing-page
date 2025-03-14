@@ -1,4 +1,4 @@
-﻿# Modern-landing-page [ Credit : Abhishek , Priyanka ]
+﻿# Modern-landing-page [ Credit : Abhishek , Priyanka , Anurag]
 
 > [!tip]
 > ENJOY THE CODE 😊
